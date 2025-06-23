@@ -90,6 +90,8 @@ StudentMonitoringSystem/
 
 ![Home Page](https://github.com/SujalMohite-CodeMaster/StudentMonitoringSystem/blob/master/src/images/Screenshot%202025-06-23%20095635.png)
 
+![Add Details](https://github.com/SujalMohite-CodeMaster/StudentMonitoringSystem/blob/master/src/images/Screenshot%202025-06-23%20095758.png)
+
 ## Future Enhancements
 
 - Implement user authentication and authorization

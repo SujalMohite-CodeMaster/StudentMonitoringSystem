@@ -88,9 +88,7 @@ StudentMonitoringSystem/
 
 ## Screenshots
 
-![Home Page] (![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-)
-
+![Home Page](https://github.com/SujalMohite-CodeMaster/StudentMonitoringSystem/blob/master/src/images/Screenshot%202025-06-23%20095635.png)
 
 ## Future Enhancements
 

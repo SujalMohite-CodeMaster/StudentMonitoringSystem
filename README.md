@@ -88,7 +88,8 @@ StudentMonitoringSystem/
 
 ## Screenshots
 
-(Include screenshots of your application's interface here if available)
+![Uploading image.png…]()
+
 
 ## Future Enhancements
 
